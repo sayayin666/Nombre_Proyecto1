@@ -1,0 +1,1 @@
+hacer primero un proyecto de front-end cualquiera con react y node 
